@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: cb5316d16ef73654a8ef292f4190d971
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -513751799873168803
+    second: Ispravil_khyunyu_vovy_0
+  - first:
+      213: -770494917781209823
+    second: Ispravil_khyunyu_vovy_1
+  - first:
+      213: 730485381720609728
+    second: Ispravil_khyunyu_vovy_2
+  - first:
+      213: 7713388117461101073
+    second: Ispravil_khyunyu_vovy_3
+  - first:
+      213: 5793472981044052619
+    second: Ispravil_khyunyu_vovy_4
+  - first:
+      213: 7436900015572122697
+    second: Ispravil_khyunyu_vovy_5
+  - first:
+      213: 7907182237628217370
+    second: Ispravil_khyunyu_vovy_6
+  - first:
+      213: -7788020775366924699
+    second: Ispravil_khyunyu_vovy_7
+  - first:
+      213: 4225452806399345281
+    second: Ispravil_khyunyu_vovy_8
+  - first:
+      213: 6154433660700351157
+    second: Ispravil_khyunyu_vovy_9
+  - first:
+      213: -682778146858298615
+    second: Ispravil_khyunyu_vovy_10
+  - first:
+      213: 1069906509057286904
+    second: Ispravil_khyunyu_vovy_11
+  - first:
+      213: 3444650672743932469
+    second: Ispravil_khyunyu_vovy_12
+  - first:
+      213: -6404728138634939868
+    second: Ispravil_khyunyu_vovy_13
+  - first:
+      213: -3525099364473432239
+    second: Ispravil_khyunyu_vovy_14
+  - first:
+      213: 1224442184325468419
+    second: Ispravil_khyunyu_vovy_15
+  - first:
+      213: 6711973825609381971
+    second: Ispravil_khyunyu_vovy_16
+  - first:
+      213: 5099608451216448948
+    second: Ispravil_khyunyu_vovy_17
+  - first:
+      213: 5691190075967958612
+    second: Ispravil_khyunyu_vovy_18
+  - first:
+      213: -9023652103305863433
+    second: Ispravil_khyunyu_vovy_19
+  - first:
+      213: -5235635565357089682
+    second: Ispravil_khyunyu_vovy_20
+  - first:
+      213: -8376541724241548632
+    second: Ispravil_khyunyu_vovy_21
+  - first:
+      213: -3972682529998287786
+    second: Ispravil_khyunyu_vovy_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a97d1c579ced8f0800000000000000
+      internalID: -513751799873168803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d386c54f6ae45f0800000000000000
+      internalID: -770494917781209823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3921b9594332a00800000000000000
+      internalID: 730485381720609728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aecf320a57b0b60800000000000000
+      internalID: 7713388117461101073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8244fa2bfc866050800000000000000
+      internalID: 5793472981044052619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf54a692d253760800000000000000
+      internalID: 7436900015572122697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bb10e954fbbd60800000000000000
+      internalID: 7907182237628217370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56664e41e546be390800000000000000
+      internalID: -7788020775366924699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1824c94a0f2d3aa30800000000000000
+      internalID: 4225452806399345281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba50cb8ec0f86550800000000000000
+      internalID: 6154433660700351157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039c1894e84686f0800000000000000
+      internalID: -682778146858298615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ec372d4219de00800000000000000
+      internalID: 1069906509057286904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532663c498bddcf20800000000000000
+      internalID: 3444650672743932469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42237bd01b5dd17a0800000000000000
+      internalID: -6404728138634939868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1571b960ec4541fc0800000000000000
+      internalID: -3525099364473432239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30119b4eda71ef010800000000000000
+      internalID: 1224442184325468419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358ba2102a8b52d50800000000000000
+      internalID: 6711973825609381971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd16541ed275c640800000000000000
+      internalID: 5099608451216448948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6c4b883b2bfe40800000000000000
+      internalID: 5691190075967958612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe5fbda83c85c280800000000000000
+      internalID: -9023652103305863433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3d7161394757b0800000000000000
+      internalID: -5235635565357089682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa2850ceab80cb80800000000000000
+      internalID: -8376541724241548632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ispravil_khyunyu_vovy_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4d0289423ed8c0800000000000000
+      internalID: -3972682529998287786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

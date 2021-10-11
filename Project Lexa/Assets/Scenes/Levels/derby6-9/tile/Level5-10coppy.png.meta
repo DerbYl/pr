@@ -1,0 +1,862 @@
+fileFormatVersion: 2
+guid: aec58f622d89d7a4abc1657a50e44e88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2363213647304250846
+    second: Level5-10coppy_0
+  - first:
+      213: -3118029997442068799
+    second: Level5-10coppy_1
+  - first:
+      213: 3518252339294335634
+    second: Level5-10coppy_2
+  - first:
+      213: -1780363452529076586
+    second: Level5-10coppy_3
+  - first:
+      213: 3860687279181421292
+    second: Level5-10coppy_4
+  - first:
+      213: -238853714583755929
+    second: Level5-10coppy_5
+  - first:
+      213: 5152201749251772099
+    second: Level5-10coppy_6
+  - first:
+      213: 492418454621609778
+    second: Level5-10coppy_7
+  - first:
+      213: 4455915915145079179
+    second: Level5-10coppy_8
+  - first:
+      213: 4867009439458744471
+    second: Level5-10coppy_9
+  - first:
+      213: -7789090238107009985
+    second: Level5-10coppy_10
+  - first:
+      213: 6546810984562933396
+    second: Level5-10coppy_11
+  - first:
+      213: -1900817082810696737
+    second: Level5-10coppy_12
+  - first:
+      213: 7915431039708585748
+    second: Level5-10coppy_13
+  - first:
+      213: 8587711699613979248
+    second: Level5-10coppy_14
+  - first:
+      213: -5807614691008119564
+    second: Level5-10coppy_15
+  - first:
+      213: -538916732494996703
+    second: Level5-10coppy_16
+  - first:
+      213: -6224712425868111952
+    second: Level5-10coppy_17
+  - first:
+      213: 4338350451515150524
+    second: Level5-10coppy_18
+  - first:
+      213: -4647646621625176457
+    second: Level5-10coppy_19
+  - first:
+      213: -8845754451834655672
+    second: Level5-10coppy_20
+  - first:
+      213: -4288881601969969854
+    second: Level5-10coppy_21
+  - first:
+      213: -2739883368142778610
+    second: Level5-10coppy_22
+  - first:
+      213: -5685390646377370198
+    second: Level5-10coppy_23
+  - first:
+      213: 2716390392570257830
+    second: Level5-10coppy_24
+  - first:
+      213: -4871345220077716930
+    second: Level5-10coppy_25
+  - first:
+      213: 1655702663184460073
+    second: Level5-10coppy_26
+  - first:
+      213: 3184411870852306944
+    second: Level5-10coppy_27
+  - first:
+      213: 9009111133641725504
+    second: Level5-10coppy_28
+  - first:
+      213: 1330095122568002819
+    second: Level5-10coppy_29
+  - first:
+      213: 8196058763773236748
+    second: Level5-10coppy_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level5-10coppy_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5dce79a42dbc020800000000000000
+      internalID: 2363213647304250846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0473cc388ab4d0800000000000000
+      internalID: -3118029997442068799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29273d1bcd753d030800000000000000
+      internalID: 3518252339294335634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6969ae86fd0ea47e0800000000000000
+      internalID: -1780363452529076586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea5a7820aae39530800000000000000
+      internalID: 3860687279181421292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e3f4efcb6facf0800000000000000
+      internalID: -238853714583755929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce4c43813c408740800000000000000
+      internalID: 5152201749251772099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f519cb9fb65d600800000000000000
+      internalID: 492418454621609778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896b379ae796dd30800000000000000
+      internalID: 4455915915145079179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79859657c471b8340800000000000000
+      internalID: 4867009439458744471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3b2262b797e390800000000000000
+      internalID: -7789090238107009985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebf7a67e1fada50800000000000000
+      internalID: 6546810984562933396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf2142fe0fe95e0800000000000000
+      internalID: -1900817082810696737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f5ee5c79249dd60800000000000000
+      internalID: 7915431039708585748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07215f88a4ead2770800000000000000
+      internalID: 8587711699613979248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcfe166535376fa0800000000000000
+      internalID: -5807614691008119564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b1f1c46126588f0800000000000000
+      internalID: -538916732494996703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfcb2357016d99a0800000000000000
+      internalID: -6224712425868111952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb057b500cae43c30800000000000000
+      internalID: 4338350451515150524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eac7c950e308fb0800000000000000
+      internalID: -4647646621625176457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca01061319d3580800000000000000
+      internalID: -8845754451834655672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2452fde08e4da74c0800000000000000
+      internalID: -4288881601969969854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f49dbd79af9f9d0800000000000000
+      internalID: -2739883368142778610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2951645f6911b0800000000000000
+      internalID: -5685390646377370198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a12f648bae82b520800000000000000
+      internalID: 2716390392570257830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a78f2f451856cb0800000000000000
+      internalID: -4871345220077716930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92927c4cccc3af610800000000000000
+      internalID: 1655702663184460073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_27
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00850bc89bd413c20800000000000000
+      internalID: 3184411870852306944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465bbef7dac60d70800000000000000
+      internalID: 9009111133641725504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d35228772757210800000000000000
+      internalID: 1330095122568002819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level5-10coppy_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c065ee465004eb170800000000000000
+      internalID: 8196058763773236748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
