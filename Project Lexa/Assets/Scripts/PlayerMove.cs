@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-    public float speed;
-    public ControlType controlType;
+    [SerializeField] private float speed;
+    [SerializeField] private ControlType controlType;
     [SerializeField] private AudioSource footsteps;
 
     AudioSource playerAudio;
@@ -15,9 +15,9 @@ public class PlayerMove : MonoBehaviour
 
     private bool FacingRight = true;
 
-    public Joystick joystick;
+    [SerializeField] private Joystick joystick;
+    [SerializeField] private enum ControlType { PC, Androud }
 
-    public enum ControlType { PC, Androud }
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();

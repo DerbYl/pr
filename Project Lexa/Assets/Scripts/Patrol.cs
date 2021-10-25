@@ -4,15 +4,13 @@ using UnityEngine;
 
 public class Patrol : MonoBehaviour
 {
-    public float speedNpc;
-    private float WaitTime;
-    public float startWaitTime;
+    [SerializeField] private float speedNpc;
+    [SerializeField] private float startWaitTime;
+    [SerializeField] private Transform[] moveSpots;
 
-
-    public Transform[] moveSpots;
     private int randonSpot;
+    private float WaitTime;
 
-    
     void Start()
     {
         randonSpot = Random.Range(0, moveSpots.Length);

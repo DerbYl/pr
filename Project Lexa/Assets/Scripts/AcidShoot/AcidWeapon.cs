@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AcidWeapon : MonoBehaviour
 {
-    public float time;
+    [SerializeField] private float time;
     private float i;
 
     private void FixedUpdate()
@@ -18,8 +18,8 @@ public class AcidWeapon : MonoBehaviour
             i += Time.deltaTime;
     }
 
-    public Transform firePoint;
-    public GameObject bullet;
+    [SerializeField] private Transform firePoint;
+    [SerializeField] private GameObject bullet;
 
     private void Shoot()
     {
